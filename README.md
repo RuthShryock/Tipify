@@ -4,7 +4,7 @@
 
 Submitted by: **Ruth Shryock**
 
-Time spent: **8** hours spent in total
+Time spent: **~8** hours spent in total
 
 ## User Stories
 
@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [X]  Easy to use slider for the tip percentage
+- [X]  Easy-to-use slider for the tip percentage
 - [X]  Improved the UI with a custom color set which supports light and dark mode
 - [X]  Created a custom logo on the launch screen and as an app icon
 - [X]  Added a settings page to change the default tip percentage
@@ -33,13 +33,13 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![](http://g.recordit.co/bgJlxL12IR.gif)
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [Recordit](https://recordit.co).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+This was my first time using Swift and developing an IOS mobile application. I struggled most with implementing the dark mode toggle in the settings page, but once I found some helpful documentation, I was able to successful implement this feature. Overall, I learned so much involving features in Swfit from User Defaults to UI animations! 
 
 ## License
 
