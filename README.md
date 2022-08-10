@@ -39,7 +39,7 @@ GIF created with [Recordit](https://recordit.co).
 
 ## Notes
 
-This was my first time using Swift and developing an IOS mobile application. I struggled most with implementing the dark mode toggle in the settings page, but once I found some helpful documentation, I was able to successful implement this feature. Overall, I learned so much involving features in Swfit from User Defaults to UI animations! 
+This was my first time using Swift and developing an IOS mobile application. I struggled most with implementing the dark mode toggle in the settings page, but once I found some helpful documentation, I was able to successful implement this feature. Overall, I learned so much involving features in Swift from User Defaults to UI animations! 
 
 ## License
 
